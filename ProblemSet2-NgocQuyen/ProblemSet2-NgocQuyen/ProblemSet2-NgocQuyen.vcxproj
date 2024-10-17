@@ -127,7 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="IntVector.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="ShakerSortIntVector.cpp" />
+    <ClCompile Include="SortableIntVector.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="IntVector.h" />
