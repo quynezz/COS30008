@@ -11,12 +11,8 @@
       "RelativeMoniker": "D:0:0:{C07226EB-0BFA-4270-A211-BC5D30C3C4D1}|MidTerm.vcxproj|solutionrelative:KeyProvider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C07226EB-0BFA-4270-A211-BC5D30C3C4D1}|MidTerm.vcxproj|C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\iVigenereStream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C07226EB-0BFA-4270-A211-BC5D30C3C4D1}|MidTerm.vcxproj|solutionrelative:iVigenereStream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C07226EB-0BFA-4270-A211-BC5D30C3C4D1}|MidTerm.vcxproj|C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\VigenereForwardIterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C07226EB-0BFA-4270-A211-BC5D30C3C4D1}|MidTerm.vcxproj|solutionrelative:VigenereForwardIterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C07226EB-0BFA-4270-A211-BC5D30C3C4D1}|MidTerm.vcxproj|C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\iVigenereStream.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C07226EB-0BFA-4270-A211-BC5D30C3C4D1}|MidTerm.vcxproj|solutionrelative:iVigenereStream.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C07226EB-0BFA-4270-A211-BC5D30C3C4D1}|MidTerm.vcxproj|C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\Vigenere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -27,8 +23,20 @@
       "RelativeMoniker": "D:0:0:{C07226EB-0BFA-4270-A211-BC5D30C3C4D1}|MidTerm.vcxproj|solutionrelative:KeyProvider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C07226EB-0BFA-4270-A211-BC5D30C3C4D1}|MidTerm.vcxproj|C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\iVigenereStream.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C07226EB-0BFA-4270-A211-BC5D30C3C4D1}|MidTerm.vcxproj|solutionrelative:iVigenereStream.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C07226EB-0BFA-4270-A211-BC5D30C3C4D1}|MidTerm.vcxproj|C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\VigenereForwardIterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C07226EB-0BFA-4270-A211-BC5D30C3C4D1}|MidTerm.vcxproj|solutionrelative:VigenereForwardIterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07226EB-0BFA-4270-A211-BC5D30C3C4D1}|MidTerm.vcxproj|C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\VigenereForwardIterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C07226EB-0BFA-4270-A211-BC5D30C3C4D1}|MidTerm.vcxproj|solutionrelative:VigenereForwardIterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07226EB-0BFA-4270-A211-BC5D30C3C4D1}|MidTerm.vcxproj|C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\VigenereMT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C07226EB-0BFA-4270-A211-BC5D30C3C4D1}|MidTerm.vcxproj|solutionrelative:VigenereMT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07226EB-0BFA-4270-A211-BC5D30C3C4D1}|MidTerm.vcxproj|C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\iVigenereStream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C07226EB-0BFA-4270-A211-BC5D30C3C4D1}|MidTerm.vcxproj|solutionrelative:iVigenereStream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,104 +62,126 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\Main.cpp",
-              "RelativeDocumentMoniker": "Main.cpp",
-              "ToolTip": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\Main.cpp",
-              "RelativeToolTip": "Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-27T13:56:00.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "iVigenereStream.cpp",
-              "DocumentMoniker": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\iVigenereStream.cpp",
-              "RelativeDocumentMoniker": "iVigenereStream.cpp",
-              "ToolTip": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\iVigenereStream.cpp",
-              "RelativeToolTip": "iVigenereStream.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-27T13:55:37.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VigenereForwardIterator.h",
-              "DocumentMoniker": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\VigenereForwardIterator.h",
-              "RelativeDocumentMoniker": "VigenereForwardIterator.h",
-              "ToolTip": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\VigenereForwardIterator.h",
-              "RelativeToolTip": "VigenereForwardIterator.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-27T13:55:35.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Vigenere.h",
-              "DocumentMoniker": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\Vigenere.h",
-              "RelativeDocumentMoniker": "Vigenere.h",
-              "ToolTip": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\Vigenere.h",
-              "RelativeToolTip": "Vigenere.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-27T13:55:28.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "iVigenereStream.h",
-              "DocumentMoniker": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\iVigenereStream.h",
-              "RelativeDocumentMoniker": "iVigenereStream.h",
-              "ToolTip": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\iVigenereStream.h",
-              "RelativeToolTip": "iVigenereStream.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-27T13:55:16.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "KeyProvider.h",
-              "DocumentMoniker": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\KeyProvider.h",
-              "RelativeDocumentMoniker": "KeyProvider.h",
-              "ToolTip": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\KeyProvider.h",
-              "RelativeToolTip": "KeyProvider.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-27T13:55:02.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "KeyProvider.cpp",
               "DocumentMoniker": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\KeyProvider.cpp",
               "RelativeDocumentMoniker": "KeyProvider.cpp",
               "ToolTip": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\KeyProvider.cpp",
               "RelativeToolTip": "KeyProvider.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-27T13:54:32.502Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VigenereMT.cpp",
+              "DocumentMoniker": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\VigenereMT.cpp",
+              "RelativeDocumentMoniker": "VigenereMT.cpp",
+              "ToolTip": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\VigenereMT.cpp",
+              "RelativeToolTip": "VigenereMT.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T04:40:14.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VigenereForwardIterator.cpp",
+              "DocumentMoniker": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\VigenereForwardIterator.cpp",
+              "RelativeDocumentMoniker": "VigenereForwardIterator.cpp",
+              "ToolTip": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\VigenereForwardIterator.cpp",
+              "RelativeToolTip": "VigenereForwardIterator.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T04:40:37.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T13:56:00.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "iVigenereStream.cpp",
+              "DocumentMoniker": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\iVigenereStream.cpp",
+              "RelativeDocumentMoniker": "iVigenereStream.cpp",
+              "ToolTip": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\iVigenereStream.cpp",
+              "RelativeToolTip": "iVigenereStream.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T13:55:37.294Z"
             }
           ]
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "iVigenereStream.h",
+              "DocumentMoniker": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\iVigenereStream.h",
+              "RelativeDocumentMoniker": "iVigenereStream.h",
+              "ToolTip": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\iVigenereStream.h",
+              "RelativeToolTip": "iVigenereStream.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T13:55:16.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KeyProvider.h",
+              "DocumentMoniker": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\KeyProvider.h",
+              "RelativeDocumentMoniker": "KeyProvider.h",
+              "ToolTip": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\KeyProvider.h",
+              "RelativeToolTip": "KeyProvider.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T13:55:02.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vigenere.h",
+              "DocumentMoniker": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\Vigenere.h",
+              "RelativeDocumentMoniker": "Vigenere.h",
+              "ToolTip": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\Vigenere.h",
+              "RelativeToolTip": "Vigenere.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T13:55:28.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VigenereForwardIterator.h",
+              "DocumentMoniker": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\VigenereForwardIterator.h",
+              "RelativeDocumentMoniker": "VigenereForwardIterator.h",
+              "ToolTip": "C:\\Computer Sience\\Data Stuctures and Pattern\\Midterm\\MidTermNgocQuyen\\MidTerm\\VigenereForwardIterator.h",
+              "RelativeToolTip": "VigenereForwardIterator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T13:55:35.713Z"
             }
           ]
         }

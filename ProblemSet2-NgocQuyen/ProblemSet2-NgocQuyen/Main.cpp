@@ -8,7 +8,7 @@
 using namespace std;
 
 //#define P1 
-//#define P2  
+#define P2  
 //#define P3  
 
 #ifdef P1
@@ -56,7 +56,7 @@ void runP2() {
 
     cout << "Bubble Sort:" << endl;
     cout << "Before sorting:" << endl;
-    for (size_t i = 0; i < lVector.size(); i++) {
+    for (size_t i = 0; i < lArrayLength; i++) {
         cout << lVector[i] << ' ';
     }
     cout << endl;

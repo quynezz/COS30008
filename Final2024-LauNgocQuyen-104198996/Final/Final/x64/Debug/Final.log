@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Computer Sience\Data Stuctures and Pattern\Final2024-LauNgocQuyen-104198996\Final\TernaryTree.h(258,1): warning C4715: 'TernaryTree<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::operator=': not all control paths return a value
+  Final.vcxproj -> C:\Computer Sience\Data Stuctures and Pattern\Final2024-LauNgocQuyen-104198996\Final\x64\Debug\Final.exe
